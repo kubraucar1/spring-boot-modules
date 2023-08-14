@@ -1,1 +1,3 @@
 rootProject.name = 'modules'
+include 'kafka-tutorial'
+include 'kafka-producer-wikimedia'
